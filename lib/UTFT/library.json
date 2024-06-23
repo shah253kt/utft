@@ -1,0 +1,21 @@
+{
+    "name": "UTFT",
+    "version": "2.8.3",
+    "description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.",
+    "keywords": "magic,enum",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shah253kt/utft"
+    },
+    "authors": [
+        {
+            "name": "Ahmad Shahril",
+            "url": "https://github.com/shah253kt",
+            "maintainer": true
+        }
+    ],
+    "license": "CC-BY-NC-SA-3.0",
+    "homepage": "https://github.com/shah253kt/utft",
+    "frameworks": "arduino",
+    "platforms": "atmelavr,teensy"
+}
